@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x,g+x,o+r /home/alx_be_shell/shell_permissions/hello
+chmod 555 /home/alx_be_shell/shell_permissions/hello
